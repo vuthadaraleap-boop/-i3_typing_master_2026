@@ -1,1 +1,1 @@
-# -i3_typing_master_2026
+# i3_typing_master_2026
